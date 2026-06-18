@@ -38,13 +38,13 @@
 
 ---
 
-## 🤖 Featured Projects (Agentic AI & LLMs)
+## 🤖 Featured Projects (Agentic AI & System Automation)
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Autonomous Research Agent](#)** | An Agentic workflow that autonomously researches topics, synthesizes data, and generates comprehensive reports without human intervention. | `Python`, `LangChain`, `OpenAI`, `MCP` |
-| **[RAG-Powered Assistant](#)** | A conversational AI tool that retrieves context from local databases to provide highly accurate, domain-specific answers. | `Python`, `Gemini`, `ChromaDB` |
-
+| **[Autonomous Research Agent](#)** | An Agentic workflow that autonomously researches topics, synthesizes data, and generates comprehensive reports. | `Python`, `LangChain`, `OpenAI` |
+| **[AI-Powered Log Analyzer](#)** | An intelligent automation tool that reads Unix system logs and uses LLMs to identify anomalies and suggest troubleshooting steps. | `Python`, `Unix`, `Gemini API` |
+| **[Smart Monitoring Dashboard](#)** | A centralized system health dashboard integrating automated data pipelines and visual metric tracking. | `Grafana`, `Python`, `SQL` |
 *(Note: Replace the `#` in the links above with the actual URLs to your GitHub repositories!)*
 
 ---
