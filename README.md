@@ -38,15 +38,15 @@
 
 ---
 
-## 🤖 Featured Projects (Agentic AI & System Automation)
+## 🤖 Featured Projects & AI Automations
 
-| Project Name | Description | Tech Stack |
+| Project / Script | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Autonomous Research Agent](#)** | An Agentic workflow that autonomously researches topics, synthesizes data, and generates comprehensive reports. | `Python`, `LangChain`, `OpenAI` |
-| **[AI-Powered Log Analyzer](#)** | An intelligent automation tool that reads Unix system logs and uses LLMs to identify anomalies and suggest troubleshooting steps. | `Python`, `Unix`, `Gemini API` |
-| **[Smart Monitoring Dashboard](#)** | A centralized system health dashboard integrating automated data pipelines and visual metric tracking. | `Grafana`, `Python`, `SQL` |
-*(Note: Replace the `#` in the links above with the actual URLs to your GitHub repositories!)*
-
+| **[LangChain & Gemini Integration](https://github.com/Bhupeshgajbhiye/[REPO_NAME]/blob/main/langchain_gemini.ipynb)** | An implementation of advanced LLM orchestration using LangChain and Google's Gemini models for intelligent text generation. | `Python`, `LangChain`, `Gemini` |
+| **[Automated EDA Pipeline](https://github.com/Bhupeshgajbhiye/[REPO_NAME]/blob/main/eda_automation.py)** | A script designed to automate Exploratory Data Analysis, reducing manual data profiling time and generating instant statistical insights. | `Python`, `Pandas`, `Automation` |
+| **[Interactive AI Chatbot](https://github.com/Bhupeshgajbhiye/[REPO_NAME]/blob/main/chatbot.py)** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and state management. | `Python`, `OpenAI / Gemini` |
+| **[Gradio Data Dashboard](https://github.com/Bhupeshgajbhiye/[REPO_NAME]/blob/main/matplotlib_gradio.ipynb)** | An interactive web application combining Matplotlib for data visualization with Gradio for a seamless user interface. | `Python`, `Gradio`, `Matplotlib` |
+| **[NLP Foundations: Embeddings & Tokenization](https://github.com/Bhupeshgajbhiye/[REPO_NAME]/blob/main/embedding.ipynb)** | Jupyter notebooks detailing the core concepts of text vectorization, embeddings, and tokenization required for RAG systems. | `Jupyter`, `NLP`, `Embeddings` |
 ---
 
 ## 🛠️ Skills & Tools
