@@ -30,7 +30,7 @@
 ## 🚀 About Me
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 Currently exploring **Generative AI, Agentic workflows, and MCP**
+- 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
 - 💻 Check out my work on **[GitHub](https://github.com/Bhupeshgajbhiye)**
 - 📫 Reach me at **bhupeshgajbhiye88@gmail.com**
