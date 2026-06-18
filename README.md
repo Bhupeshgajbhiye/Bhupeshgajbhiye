@@ -53,19 +53,25 @@
 
 <p align="center">
 
+<!-- Programming & Data -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux/Unix"/>
 
+<!-- System Monitoring & Automation -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Unix/Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash/Shell Scripting"/>
+
+<!-- Generative AI & Tools -->
 <img src="https://img.icons8.com/fluency/48/chatgpt.png" width="40" title="OpenAI / ChatGPT"/>
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="Generative AI"/>
 <img src="https://img.icons8.com/color/48/google-logo.png" width="40" title="Google Gemini"/>
 
+<!-- Version Control -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 
 </p>
-
 ---
 
 ## 📈 GitHub Activity
