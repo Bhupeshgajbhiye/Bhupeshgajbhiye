@@ -32,7 +32,7 @@
 
 - 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
 - 💡 Passionate about **building intelligent, autonomous applications using LLMs**
-- 💻 Check out my work on **[GitHub](https://github.com/Bhupeshgajbhiye)**
+- 💻 Check out my work on **[GitHub](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship)**
 - 📫 Reach me at **bhupeshgajbhiye88@gmail.com**
 - 📞 Contact: **8459176208**
 
