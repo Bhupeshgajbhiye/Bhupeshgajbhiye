@@ -73,16 +73,6 @@
 </details>
 
 <details>
-<summary><b>💼 Job Application Automation Agent</b></summary>
-<br>
-
-- **Architecture:** End-to-end autonomous browser agent designed to eliminate repetitive manual workflows.
-- **Mechanics:** Automates browser sessions, dynamically parses structured resumes against unstructured job descriptions, and manages application workflows on Naukri.com.
-- **Tech Stack:** `Python`, `Playwright`, `Google GenAI SDK`, `Gemini 2.0 Flash`
-
-</details>
-
-<details>
 <summary><b>📧 Autonomous AI Email Triage</b></summary>
 <br>
 
@@ -95,16 +85,6 @@
 <br>
 
 ### 👁️ Computer Vision, RAG & Data Systems
-
-<details>
-<summary><b>🏠 3D Architectural Render Pipeline</b></summary>
-<br>
-
-- **Architecture:** Local generative computer vision pipeline converting 2D architectural blueprints into 3D elevations.
-- **Mechanics:** Processes structural contours, partitions architectural geometries, and feeds them into generative rendering backends exposed via REST endpoints.
-- **Tech Stack:** `OpenCV`, `FastAPI`, `Generative Models`, `Python`
-
-</details>
 
 <details>
 <summary><b>🔍 RAG Document Analyzer</b></summary>
