@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Architecting+Multi-Agent+Workflows;Building+RAG+Pipelines+%26+Computer+Vision;Automating+Intelligence+with+Python&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Architecting+Multi-Agent+Workflows;Building+RAG+Pipelines+%26+Data+Systems;Automating+Intelligence+with+Python&width=600&height=45">
 </p>
 
 <p align="center">
@@ -60,71 +60,104 @@
 
 <p align="center"><i>Click to expand the technical implementation details for each architecture.</i></p>
 
-### 🗣️ Voice & Agentic AI
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ Agentic Workflows & Apps
 
 <details>
-<summary><b>🎙️ Real-Time Voice AI Recruiter Agent</b></summary>
+<summary><b>🎙️ Real-Time Voice AI Recruiter</b></summary>
 <br>
-
-- **Architecture:** Autonomous AI Voice Technical Recruiter agent conducting interactive, latency-critical screening interviews.
-- **Mechanics:** Handles real-time voice capture, dynamic prompt orchestration, audio stream synthesis, and candidate evaluation logging directly to CSV.
-- **Tech Stack:** `LiveKit Agents`, `Deepgram STT`, `Silero VAD`, `OpenAI GPT-4o-mini`, `Cartesia TTS`
-
-</details>
-
-<details>
-<summary><b>💼 Job Application Automation Agent</b></summary>
-<br>
-
-- **Architecture:** End-to-end autonomous browser agent designed to eliminate repetitive manual workflows.
-- **Mechanics:** Automates browser sessions, dynamically parses structured resumes against unstructured job descriptions, and manages application workflows on Naukri.com.
-- **Tech Stack:** `Python`, `Playwright`, `Google GenAI SDK`, `Gemini 2.0 Flash`
-
+Autonomous AI Voice Technical Recruiter agent conducting interactive, latency-critical screening interviews. Handles real-time voice capture, dynamic prompt orchestration, audio stream synthesis, and candidate evaluation logging directly to CSV.<br>
+<b>Stack:</b> <code>LiveKit Agents</code>, <code>Deepgram</code>, <code>Silero VAD</code>, <code>OpenAI GPT-4o-mini</code>, <code>Cartesia TTS</code>
 </details>
 
 <details>
 <summary><b>📧 Autonomous AI Email Triage</b></summary>
 <br>
-
-- **Architecture:** Intelligent agentic inbox triage system.
-- **Mechanics:** Analyzes, categorizes, and scores priority for incoming emails, auto-generating contextual drafts and action triggers for critical correspondence.
-- **Tech Stack:** `Python`, `LLMs`, `Agentic Workflows`, `Automation`
-
+Intelligent agentic inbox triage system. Analyzes, categorizes, and scores priority for incoming emails, auto-generating contextual drafts and action triggers for critical correspondence.<br>
+<b>Stack:</b> <code>Python</code>, <code>LLMs</code>, <code>Agentic Workflows</code>
 </details>
-
-<br>
-
-### 👁️ Computer Vision, RAG & Data Systems
 
 <details>
-<summary><b>🏠 3D Architectural Render Pipeline</b></summary>
+<summary><b>🤖 Interactive AI Chatbot</b></summary>
 <br>
-
-- **Architecture:** Local generative computer vision pipeline converting 2D architectural blueprints into 3D elevations.
-- **Mechanics:** Processes structural contours, partitions architectural geometries, and feeds them into generative rendering backends exposed via REST endpoints.
-- **Tech Stack:** `OpenCV`, `FastAPI`, `Generative Models`, `Python`
-
+A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management.<br>
+<b>Stack:</b> <code>Python</code>, <code>OpenAI</code>, <code>Gemini</code>, <code>Agentic AI</code>
 </details>
+
+<details>
+<summary><b>📄 Document Analyzer App</b></summary>
+<br>
+A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models.<br>
+<b>Stack:</b> <code>Python</code>, <code>Generative AI</code>, <code>FastAPI/Gradio</code>
+</details>
+
+<details>
+<summary><b>🔗 LangChain & Gemini Integration</b></summary>
+<br>
+Advanced LLM orchestration and multi-turn conversational memory architectures.<br>
+<b>Stack:</b> <code>Python</code>, <code>LangChain</code>, <code>Gemini API</code>
+</details>
+
+<details>
+<summary><b>🎨 AI Image Generator</b></summary>
+<br>
+Multimodal generative AI pipeline for prompt-based creative asset synthesis.<br>
+<b>Stack:</b> <code>Python</code>, <code>Generative AI</code>, <code>Multimodal</code>
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ RAG, Data Pipelines & NLP
 
 <details>
 <summary><b>🔍 RAG Document Analyzer</b></summary>
 <br>
-
-- **Architecture:** Production-ready Retrieval-Augmented Generation pipeline.
-- **Mechanics:** Chunks, indexes, and embeds complex unstructured documents with semantic search vectorization to minimize hallucination.
-- **Tech Stack:** `Python`, `RAG`, `FAISS Vector Store`, `LLMs`
-
+Production-ready Retrieval-Augmented Generation pipeline. Chunks, indexes, and embeds complex unstructured documents with semantic search vectorization to minimize hallucination.<br>
+<b>Stack:</b> <code>Python</code>, <code>RAG</code>, <code>FAISS Vector Store</code>, <code>LLMs</code>
 </details>
 
 <details>
-<summary><b>📊 LLM-Powered Automated EDA Pipeline</b></summary>
+<summary><b>📊 LLM Automated EDA Pipeline</b></summary>
 <br>
-
-- **Architecture:** Autonomous exploratory data analysis tool.
-- **Mechanics:** Parses raw datasets, handles missingness, generates exploratory statistical distributions, and automates visual dashboards.
-- **Tech Stack:** `Gradio`, `Pandas`, `Seaborn`, `Matplotlib`, `Ollama`
-
+Autonomous exploratory data analysis tool. Parses raw datasets, handles missingness, generates exploratory statistical distributions, and automates visual dashboards.<br>
+<b>Stack:</b> <code>Gradio</code>, <code>Pandas</code>, <code>Seaborn</code>, <code>Matplotlib</code>, <code>Ollama</code>
 </details>
+
+<details>
+<summary><b>📈 Gradio Data Dashboard</b></summary>
+<br>
+An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface.<br>
+<b>Stack:</b> <code>Python</code>, <code>Gradio</code>, <code>Matplotlib</code>
+</details>
+
+<details>
+<summary><b>🛠️ Gemini Prompt Engineering</b></summary>
+<br>
+Complete framework focused on optimizing, structuring, and benchmarking complex prompt templates using the Google Gemini API.<br>
+<b>Stack:</b> <code>Python</code>, <code>Gemini</code>, <code>Prompt Engineering</code>
+</details>
+
+<details>
+<summary><b>🧠 NLP Foundations: Embeddings</b></summary>
+<br>
+Hands-on deep dive into core NLP concepts including text vectorization, similarity metrics, and semantic search vector fields.<br>
+<b>Stack:</b> <code>Jupyter</code>, <code>NLP</code>, <code>Embeddings</code>
+</details>
+
+<details>
+<summary><b>🧩 LLM Tokenizer Exploration</b></summary>
+<br>
+Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood.<br>
+<b>Stack:</b> <code>Jupyter</code>, <code>NLP</code>, <code>Tokenization</code>
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
