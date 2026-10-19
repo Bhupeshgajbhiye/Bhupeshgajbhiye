@@ -42,16 +42,20 @@
 
 | Project / Script | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Real-Time Voice AI Recruiter Agent](https://github.com/Bhupeshgajbhiye)** | An autonomous AI Voice Technical Recruiter that conducts interactive screening interviews and dynamically logs candidate scores to a CSV. | `LiveKit`, `Deepgram`, `Cartesia`, `GPT-4o-mini` |
+| **[Autonomous AI Email Triage](https://github.com/Bhupeshgajbhiye)** | An intelligent agentic workflow designed to automatically categorize, prioritize, and draft responses for high-volume email inboxes. | `Python`, `LLMs`, `Agentic AI`, `Automation` |
 | **[RAG Document Analyzer](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/RAG_Document_Analyze.ipynb)** | An implementation of Retrieval-Augmented Generation (RAG) to parse, index, and query complex documents with high semantic precision. | `Python`, `RAG`, `Vector Search`, `LLMs` |
-| **[Interactive AI Chatbot](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/chatbot.py)** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management. | `Python`, `OpenAI`, `Gemini`, `Agentic AI` |
 | **[LangChain & Gemini Integration](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/langchain_gemini.ipynb)** | Advanced LLM orchestration and multi-turn conversational patterns using LangChain and Google's Gemini models. | `Python`, `LangChain`, `Gemini API` |
+| **[Interactive AI Chatbot](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/chatbot.py)** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management. | `Python`, `OpenAI`, `Gemini`, `Agentic AI` |
 | **[Document Analyzer App](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/doc_analyzer_app.py)** | A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models. | `Python`, `Generative AI`, `File Parsing` |
 | **[Gemini Prompt Engineering](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/prompt_gemini.py)** | Complete framework focused on optimizing, structuring, and benchmarking complex prompt templates using the Google Gemini API. | `Python`, `Gemini`, `Prompt Engineering` |
 | **[AI Image Generator](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/image_generator.ipynb)** | Jupyter notebook exploring multimodal generative AI pipelines for prompt-based creative asset synthesis. | `Python`, `Generative AI`, `Multimodal` |
+| **[LLM Tokenizer Exploration](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/tokenizer.ipynb)** | Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood. | `Jupyter`, `NLP`, `Tokenization` |
+| **[NLP Foundations: Embeddings](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/embedding.ipynb)** | Hands-on deep dive into core NLP concepts including text vectorization, similarity metrics, and semantic search vector fields. | `Jupyter`, `NLP`, `Embeddings` |
 | **[Automated EDA Pipeline](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/eda_automation.py)** | An automation tool designed to execute Exploratory Data Analysis pipelines, minimizing manual data profiling and producing quick statistical profiles. | `Python`, `Pandas`, `Automation` |
 | **[Gradio Data Dashboard](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/matplotlib_gradio.ipynb)** | An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface. | `Python`, `Gradio`, `Matplotlib` |
-| **[NLP Foundations: Embeddings](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/embedding.ipynb)** | Hands-on deep dive into core NLP concepts including text vectorization, similarity metrics, and semantic search vector fields. | `Jupyter`, `NLP`, `Embeddings` |
-| **[LLM Tokenizer Exploration](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/tokenizer.ipynb)** | Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood. | `Jupyter`, `NLP`, `Tokenization` |
+
+*(Note: Don't forget to update the repository links for the Voice AI Recruiter and Email Triage projects if they are currently hosted in specific repositories!)*
 
 ---
 ## 🛠️ Skills & Tools
@@ -77,6 +81,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 
 </p>
+
 ---
 
 ## 📈 GitHub Activity
