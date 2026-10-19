@@ -58,13 +58,7 @@
 
 <h2 align="center">🚀 AUTONOMOUS ARCHITECTURES & PROJECTS</h2>
 
-<p align="center"><i>Click to expand the technical implementation details for each architecture.</i></p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🗣️ Agentic Workflows & Apps
+<p align="center"><i>Ranked by industry demand. Click to expand the technical implementation details.</i></p>
 
 <details>
 <summary><b>🎙️ Real-Time Voice AI Recruiter</b></summary>
@@ -81,17 +75,10 @@ Intelligent agentic inbox triage system. Analyzes, categorizes, and scores prior
 </details>
 
 <details>
-<summary><b>🤖 Interactive AI Chatbot</b></summary>
+<summary><b>🔍 RAG Document Analyzer</b></summary>
 <br>
-A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management.<br>
-<b>Stack:</b> <code>Python</code>, <code>OpenAI</code>, <code>Gemini</code>, <code>Agentic AI</code>
-</details>
-
-<details>
-<summary><b>📄 Document Analyzer App</b></summary>
-<br>
-A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models.<br>
-<b>Stack:</b> <code>Python</code>, <code>Generative AI</code>, <code>FastAPI/Gradio</code>
+Production-ready Retrieval-Augmented Generation pipeline. Chunks, indexes, and embeds complex unstructured documents with semantic search vectorization to minimize hallucination.<br>
+<b>Stack:</b> <code>Python</code>, <code>RAG</code>, <code>FAISS Vector Store</code>, <code>LLMs</code>
 </details>
 
 <details>
@@ -102,22 +89,17 @@ Advanced LLM orchestration and multi-turn conversational memory architectures.<b
 </details>
 
 <details>
-<summary><b>🎨 AI Image Generator</b></summary>
+<summary><b>📄 Document Analyzer App</b></summary>
 <br>
-Multimodal generative AI pipeline for prompt-based creative asset synthesis.<br>
-<b>Stack:</b> <code>Python</code>, <code>Generative AI</code>, <code>Multimodal</code>
+A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models.<br>
+<b>Stack:</b> <code>Python</code>, <code>Generative AI</code>, <code>FastAPI/Gradio</code>
 </details>
 
-</td>
-<td width="50%" valign="top">
-
-### 👁️ RAG, Data Pipelines & NLP
-
 <details>
-<summary><b>🔍 RAG Document Analyzer</b></summary>
+<summary><b>🤖 Interactive AI Chatbot</b></summary>
 <br>
-Production-ready Retrieval-Augmented Generation pipeline. Chunks, indexes, and embeds complex unstructured documents with semantic search vectorization to minimize hallucination.<br>
-<b>Stack:</b> <code>Python</code>, <code>RAG</code>, <code>FAISS Vector Store</code>, <code>LLMs</code>
+A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management.<br>
+<b>Stack:</b> <code>Python</code>, <code>OpenAI</code>, <code>Gemini</code>, <code>Agentic AI</code>
 </details>
 
 <details>
@@ -128,17 +110,24 @@ Autonomous exploratory data analysis tool. Parses raw datasets, handles missingn
 </details>
 
 <details>
-<summary><b>📈 Gradio Data Dashboard</b></summary>
-<br>
-An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface.<br>
-<b>Stack:</b> <code>Python</code>, <code>Gradio</code>, <code>Matplotlib</code>
-</details>
-
-<details>
 <summary><b>🛠️ Gemini Prompt Engineering</b></summary>
 <br>
 Complete framework focused on optimizing, structuring, and benchmarking complex prompt templates using the Google Gemini API.<br>
 <b>Stack:</b> <code>Python</code>, <code>Gemini</code>, <code>Prompt Engineering</code>
+</details>
+
+<details>
+<summary><b>🎨 AI Image Generator</b></summary>
+<br>
+Multimodal generative AI pipeline for prompt-based creative asset synthesis.<br>
+<b>Stack:</b> <code>Python</code>, <code>Generative AI</code>, <code>Multimodal</code>
+</details>
+
+<details>
+<summary><b>📈 Gradio Data Dashboard</b></summary>
+<br>
+An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface.<br>
+<b>Stack:</b> <code>Python</code>, <code>Gradio</code>, <code>Matplotlib</code>
 </details>
 
 <details>
@@ -154,10 +143,6 @@ Hands-on deep dive into core NLP concepts including text vectorization, similari
 Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood.<br>
 <b>Stack:</b> <code>Jupyter</code>, <code>NLP</code>, <code>Tokenization</code>
 </details>
-
-</td>
-</tr>
-</table>
 
 ---
 
