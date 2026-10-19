@@ -1,111 +1,111 @@
-<h1 align="center">Hi 👋, I'm Bhupesh Gajbhiye</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Developer;Generative+AI+Specialist;Prompt+Engineer;Agentic+AI+Builder&width=500&height=45">
-</h3>
+<!-- 3D Dynamic Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0e75b6&height=250&section=header&text=Bhupesh%20Gajbhiye&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Generative%20AI%20|%20Agentic%20AI%20Builder%20|%20Prompt%20Engineer&descAlignY=55&descAlign=50"/>
+</div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Autonomous+AI+Agents;Crafting+RAG+Pipelines;Fine-Tuning+LLMs;Automating+with+Python&width=500&height=45">
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Bhupeshgajbhiye&label=Profile%20views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-000000?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-FF1493?style=flat"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=flat"/>
-<img src="https://img.shields.io/badge/MCP-102230?style=flat"/>
-<img src="https://img.shields.io/badge/RAG-FF4500?style=flat"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-008080?style=flat"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhupeshgajbhiye&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🚀 About Me & The Mission
 
-- 🔭 Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications
-- 💡 Passionate about **building intelligent, autonomous applications using LLMs**
-- 💻 Check out my work on **[GitHub](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI)**
-- 📫 Reach me at **bhupeshgajbhiye88@gmail.com**
-- 📞 Contact: **8459176208**
+<table>
+<tr>
+<td width="60%">
+
+> **Mission:** Leveraging robust system monitoring expertise to build and optimize autonomous, AI-driven applications.
+<br>
+
+- 🔭 **Current Focus:** Building intelligent, multi-agent workflows using LLMs.
+- 💻 **Portfolio:** Exploring the bleeding edge of Generative AI on **[GitHub](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI)**
+- 📫 **Reach Me:** **bhupeshgajbhiye88@gmail.com**
+- 📞 **Contact:** **8459176208**
+- ⚡ **Fun Fact:** I enjoy transforming complex, unstructured data into autonomous AI-powered solutions.
+
+</td>
+<td width="40%" align="center">
+  <!-- 3D Spinning Globe representing GitHub Activity -->
+  <img src="https://github-readme-globe.vercel.app/api?username=Bhupeshgajbhiye&color=00C2FF" alt="3D GitHub Globe" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤖 Featured Projects & AI Automations
+## 🤖 Featured AI Automations (Ranked by Demand)
 
-| Project / Script | Description | Tech Stack |
+> *Highlighting production-ready workflows, agentic AI systems, and RAG pipelines.*
+
+| 🌟 Project / Agent | 🧠 Core Mechanics | 🛠 Tech Stack |
 | :--- | :--- | :--- |
-| **[Real-Time Voice AI Recruiter Agent](https://github.com/Bhupeshgajbhiye)** | An autonomous AI Voice Technical Recruiter that conducts interactive screening interviews and dynamically logs candidate scores to a CSV. | `LiveKit`, `Deepgram`, `Cartesia`, `GPT-4o-mini` |
-| **[Autonomous AI Email Triage](https://github.com/Bhupeshgajbhiye)** | An intelligent agentic workflow designed to automatically categorize, prioritize, and draft responses for high-volume email inboxes. | `Python`, `LLMs`, `Agentic AI`, `Automation` |
-| **[RAG Document Analyzer](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/RAG_Document_Analyze.ipynb)** | An implementation of Retrieval-Augmented Generation (RAG) to parse, index, and query complex documents with high semantic precision. | `Python`, `RAG`, `Vector Search`, `LLMs` |
-| **[LangChain & Gemini Integration](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/langchain_gemini.ipynb)** | Advanced LLM orchestration and multi-turn conversational patterns using LangChain and Google's Gemini models. | `Python`, `LangChain`, `Gemini API` |
-| **[Interactive AI Chatbot](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/chatbot.py)** | A conversational AI agent built to interact with users dynamically, demonstrating core prompt engineering and robust state management. | `Python`, `OpenAI`, `Gemini`, `Agentic AI` |
-| **[Document Analyzer App](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/doc_analyzer_app.py)** | A production-ready Python application designed to dynamically process and extract insights from unstructured text using generative models. | `Python`, `Generative AI`, `File Parsing` |
-| **[Gemini Prompt Engineering](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/prompt_gemini.py)** | Complete framework focused on optimizing, structuring, and benchmarking complex prompt templates using the Google Gemini API. | `Python`, `Gemini`, `Prompt Engineering` |
-| **[AI Image Generator](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/image_generator.ipynb)** | Jupyter notebook exploring multimodal generative AI pipelines for prompt-based creative asset synthesis. | `Python`, `Generative AI`, `Multimodal` |
-| **[LLM Tokenizer Exploration](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/tokenizer.ipynb)** | Technical breakdown of how Large Language Models chunk, encode, and read text raw sequences under the hood. | `Jupyter`, `NLP`, `Tokenization` |
-| **[NLP Foundations: Embeddings](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/embedding.ipynb)** | Hands-on deep dive into core NLP concepts including text vectorization, similarity metrics, and semantic search vector fields. | `Jupyter`, `NLP`, `Embeddings` |
-| **[Automated EDA Pipeline](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/eda_automation.py)** | An automation tool designed to execute Exploratory Data Analysis pipelines, minimizing manual data profiling and producing quick statistical profiles. | `Python`, `Pandas`, `Automation` |
-| **[Gradio Data Dashboard](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/matplotlib_gradio.ipynb)** | An interactive analytical dashboard combining complex Matplotlib visualizations with a clean, web-accessible Gradio interface. | `Python`, `Gradio`, `Matplotlib` |
-
-*(Note: Don't forget to update the repository links for the Voice AI Recruiter and Email Triage projects if they are currently hosted in specific repositories!)*
-
----
-## 🛠️ Skills & Tools
-
-<p align="center">
-
-<!-- Programming & Data -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-
-<!-- System Monitoring & Automation -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Unix/Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash/Shell Scripting"/>
-
-<!-- Generative AI & Tools -->
-<img src="https://img.icons8.com/fluency/48/chatgpt.png" width="40" title="OpenAI / ChatGPT"/>
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="Generative AI"/>
-<img src="https://img.icons8.com/color/48/google-logo.png" width="40" title="Google Gemini"/>
-
-<!-- Version Control -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-
-</p>
+| **[Real-Time Voice AI Recruiter](https://github.com/Bhupeshgajbhiye)** | Autonomous voice agent conducting interactive screening interviews & logging scores dynamically. | `LiveKit`, `Deepgram`, `GPT-4o-mini` |
+| **[Autonomous AI Email Triage](https://github.com/Bhupeshgajbhiye)** | Agentic workflow to automatically categorize, prioritize, and draft responses for busy inboxes. | `Python`, `LLMs`, `Agentic AI` |
+| **[RAG Document Analyzer](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/RAG_Document_Analyze.ipynb)** | Parsing, indexing, and querying complex documents with high semantic precision. | `RAG`, `Vector DB`, `LLMs` |
+| **[LangChain & Gemini Flow](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/langchain_gemini.ipynb)** | Advanced LLM orchestration and multi-turn conversational memory. | `LangChain`, `Gemini API` |
+| **[Interactive AI Chatbot](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/chatbot.py)** | Dynamic user interaction demonstrating core prompt engineering and state management. | `OpenAI`, `Gemini`, `Agents` |
+| **[Document Analyzer App](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/doc_analyzer_app.py)** | Production-ready app for dynamic processing and insight extraction from unstructured text. | `Generative AI`, `FastAPI/Gradio` |
+| **[Gemini Prompt Engineering](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/prompt_gemini.py)** | Benchmarking and structuring complex prompt templates. | `Gemini`, `Prompt Eng.` |
+| **[AI Image Generator](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/image_generator.ipynb)** | Multimodal generative AI pipeline for prompt-based creative asset synthesis. | `Multimodal AI` |
+| **[Automated EDA Pipeline](https://github.com/Bhupeshgajbhiye/Generative-AI-Agentic-AI-Internship/blob/main/eda_automation.py)** | LLM-driven automation tool for executing Exploratory Data Analysis effortlessly. | `Pandas`, `Automation` |
 
 ---
 
-## 📈 GitHub Activity
+## 🧊 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshgajbhiye&theme=tokyo-night" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupeshgajbhiye&theme=tokyonight" />
+  <em>Floating Volumetric Badges</em>
 </p>
 
----
-
-## 🤝 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhupesh-gajbhiye/" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="45" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Bhupeshgajbhiye" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="45" alt="GitHub"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,linux,bash,git,github,vscode,docker,gcp,aws&perline=10" />
   </a>
 </p>
 
 <p align="center">
- ⚡ I enjoy transforming complex problems into intelligent, AI-powered solutions.
+  <!-- Custom 3D styled Badges for AI Tools (since skillicons doesn't have all AI logos yet, we use for-the-badge style which looks thicker/heavier) -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-FF4500?style=for-the-badge"/>
 </p>
+
+---
+
+## 📊 Analytics & Activity
+
+<div align="center">
+  <!-- Layered Grid Layout for Stats -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshgajbhiye&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupeshgajbhiye&theme=tokyonight" alt="Summary Cards"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhupesh-gajbhiye/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<!-- Footer Wave to match the header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:0e75b6,0:00C2FF&height=100&section=footer"/>
+</div>
