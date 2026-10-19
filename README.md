@@ -14,8 +14,11 @@
 
 <h2 align="center"> ⚡ SYSTEM LOGS: USER PROFILE ⚡ </h2>
 
-<div align="center">
-  <pre><code>
+---
+
+<h2 align="center"> ⚡ SYSTEM LOGS: USER PROFILE ⚡ </h2>
+
+```json
 {
   "name": "Bhupesh Gajbhiye",
   "status": "Active",
@@ -27,8 +30,6 @@
     "github": "https://github.com/Bhupeshgajbhiye"
   }
 }
-  </code></pre>
-</div>
 
 ---
 
