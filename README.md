@@ -19,8 +19,8 @@
 
 <h2 align="center">💡 PROFESSIONAL IMPACT</h2>
 <p align="center">
-  Generative AI and Agentic AI Developer with 3+ years of experience building LLM applications, multi-agent systems, real-time voice agents, and production RAG pipelines using Python and FastAPI[cite: 5]. <br>
-  Delivered 45% less manual triage effort, 60% faster ticket turnaround, and 38% better retrieval precision[cite: 5].
+  Generative AI and Agentic AI Developer with 3+ years of experience building LLM applications, multi-agent systems, real-time voice agents, and production RAG pipelines using Python and FastAPI. <br>
+  Delivered 45% less manual triage effort, 60% faster ticket turnaround, and 38% better retrieval precision.
 </p>
 
 ---
@@ -34,10 +34,10 @@
 ### 🧠 AI & LLMs
 <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=2" /><br>
 
-`OpenAI GPT-4/GPT-4o`[cite: 5]<br>
-`Claude` `Google Gemini`[cite: 5]<br>
-`LLaMA 3` `DeepSeek-R1`[cite: 5]<br>
-`Hugging Face` `Groq API`[cite: 5]
+`OpenAI GPT-4/GPT-4o`<br>
+`Claude` `Google Gemini`<br>
+`LLaMA 3` `DeepSeek-R1`<br>
+`Hugging Face` `Groq API`
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -45,9 +45,9 @@
 ### 🤖 Agentic Frameworks
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/><br>
 
-`CrewAI` `AutoGen`[cite: 5]<br>
-`LangGraph` `MCP`[cite: 5]<br>
-`LiveKit (WebRTC)`[cite: 5]
+`CrewAI` `AutoGen`<br>
+`LangGraph` `MCP`<br>
+`LiveKit (WebRTC)`
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -55,9 +55,9 @@
 ### ⚡ Data & DevOps
 <img src="https://skillicons.dev/icons?i=mysql,linux,bash,git,docker,aws&perline=3" /><br>
 
-`Vector DBs (FAISS, ChromaDB)`[cite: 5]<br>
-`FastAPI` `PostgreSQL`[cite: 5]<br>
-`Pydantic` `AsyncIO`[cite: 5]
+`Vector DBs (FAISS, ChromaDB)`<br>
+`FastAPI` `PostgreSQL`<br>
+`Pydantic` `AsyncIO`
 
 </td>
 </tr>
@@ -72,22 +72,22 @@
 <details>
 <summary><b>🎙️ Real-Time Voice AI Recruiter</b></summary>
 <br>
-Built a fully autonomous voice agent on the LiveKit WebRTC framework that conducts technical screening interviews, speaks naturally with candidates, adapts questions to their experience, and evaluates knowledge on the fly[cite: 5]. Handles real-time audio orchestration with barge-in handling that instantly stops playback when the candidate interrupts[cite: 5].<br>
-<b>Stack:</b> <code>LiveKit WebRTC</code>[cite: 5], <code>Silero VAD</code>[cite: 5], <code>Deepgram STT</code>[cite: 5], <code>OpenAI GPT-4o-mini</code>[cite: 5], <code>Cartesia TTS</code>[cite: 5]
+Built a fully autonomous voice agent on the LiveKit WebRTC framework that conducts technical screening interviews, speaks naturally with candidates, adapts questions to their experience, and evaluates knowledge on the fly. Handles real-time audio orchestration with barge-in handling that instantly stops playback when the candidate interrupts.<br>
+<b>Stack:</b> <code>LiveKit WebRTC</code>, <code>Silero VAD</code>, <code>Deepgram STT</code>, <code>OpenAI GPT-4o-mini</code>, <code>Cartesia TTS</code>
 </details>
 
 <details>
 <summary><b>📧 Autonomous AI Email Triage & Dispatch</b></summary>
 <br>
-Developed an async LLM pipeline cutting ticket turnaround by 60%[cite: 5]. Included entity extraction, P1-P4 priority scoring, queue routing, Slack escalation, JSON-schema outputs, Groq-to-OpenAI failover, and human-in-the-loop approval[cite: 5].<br>
-<b>Stack:</b> <code>Python</code>, <code>FastAPI webhooks</code>[cite: 5], <code>Groq (Llama-3)</code>[cite: 5], <code>OpenAI GPT</code>[cite: 5]
+Developed an async LLM pipeline cutting ticket turnaround by 60%. Included entity extraction, P1-P4 priority scoring, queue routing, Slack escalation, JSON-schema outputs, Groq-to-OpenAI failover, and human-in-the-loop approval.<br>
+<b>Stack:</b> <code>Python</code>, <code>FastAPI webhooks</code>, <code>Groq (Llama-3)</code>, <code>OpenAI GPT</code>
 </details>
 
 <details>
 <summary><b>🔍 RAG Document Analyzer</b></summary>
 <br>
-Designed and deployed a RAG system using recursive chunking, re-ranking, and source citations, improving retrieval precision by 38%[cite: 5].<br>
-<b>Stack:</b> <code>LangChain</code>[cite: 5], <code>FAISS</code>[cite: 5], <code>ChromaDB</code>[cite: 5], <code>Python</code>
+Designed and deployed a RAG system using recursive chunking, re-ranking, and source citations, improving retrieval precision by 38%.<br>
+<b>Stack:</b> <code>LangChain</code>, <code>FAISS</code>, <code>ChromaDB</code>, <code>Python</code>
 </details>
 
 <details>
@@ -107,8 +107,8 @@ A production-ready Python application designed to dynamically process and extrac
 <details>
 <summary><b>🤖 Interactive AI Chatbot</b></summary>
 <br>
-Built LLM chatbots and Streamlit apps serving 1,000+ daily queries[cite: 5]. Engineered system prompts, role-based guardrails, and Pydantic validation across GPT-4, LLaMA, and Claude to reduce hallucinations[cite: 5].<br>
-<b>Stack:</b> <code>Python</code>, <code>OpenAI</code>, <code>Claude</code>[cite: 5], <code>LLaMA</code>[cite: 5], <code>Streamlit</code>[cite: 5]
+Built LLM chatbots and Streamlit apps serving 1,000+ daily queries. Engineered system prompts, role-based guardrails, and Pydantic validation across GPT-4, LLaMA, and Claude to reduce hallucinations.<br>
+<b>Stack:</b> <code>Python</code>, <code>OpenAI</code>, <code>Claude</code>, <code>LLaMA</code>, <code>Streamlit</code>
 </details>
 
 <details>
@@ -161,13 +161,13 @@ Technical breakdown of how Large Language Models chunk, encode, and read text ra
 <tr>
 <td width="45%" align="center" valign="middle">
 
-**Oracle Certified Associate - Agentic AI Certified Foundations Associate**[cite: 5]  
+**Oracle Certified Associate - Agentic AI Certified Foundations Associate**  
 <br>
-**NASSCOM Python Developer**[cite: 5]  
+**NASSCOM Python Developer**  
 <br>
-**AWS Academy Machine Learning & Cloud Foundations**[cite: 5]  
+**AWS Academy Machine Learning & Cloud Foundations**  
 <br>
-**HackerRank SQL Advanced**[cite: 5]
+**HackerRank SQL Advanced**
 
 </td>
 <td width="55%" align="center" valign="middle">
